@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/MLTrack/mlruns/867593557077154275/f09e97d06f0146b68fa83e62995445aa/artifacts
+end_time: 1739022462465
+entry_point_name: ''
+experiment_id: '867593557077154275'
+lifecycle_stage: active
+run_id: f09e97d06f0146b68fa83e62995445aa
+run_name: abundant-pig-482
+run_uuid: f09e97d06f0146b68fa83e62995445aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739022453623
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/MLTrack/mlruns/867593557077154275/fd5603a6df5e4d7fb65daa14cb836558/artifacts
+end_time: 1739022183056
+entry_point_name: ''
+experiment_id: '867593557077154275'
+lifecycle_stage: active
+run_id: fd5603a6df5e4d7fb65daa14cb836558
+run_name: merciful-fawn-985
+run_uuid: fd5603a6df5e4d7fb65daa14cb836558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739022164221
+status: 3
+tags: []
+user_id: HP
